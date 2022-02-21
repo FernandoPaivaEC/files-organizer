@@ -1,0 +1,20 @@
+{
+  "recommendations": [
+    "eamodio.gitlens",
+    "eg2.vscode-npm-script",
+    "christian-kohler.npm-intellisense",
+    "dbaeumer.vscode-eslint",
+    "naumovs.color-highlight",
+    "streetsidesoftware.code-spell-checker",
+    "pkief.material-icon-theme",
+    "davidanson.vscode-markdownlint",
+    "prisma.prisma",
+    "ms-vscode.vscode-typescript-next",
+    "ms-vscode-remote.remote-ssh",
+    "ms-vscode-remote.remote-ssh-edit",
+    "editorconfig.editorconfig",
+    "wix.vscode-import-cost",
+    "mikestead.dotenv",
+    "editorconfig.editorconfig"
+  ]
+}

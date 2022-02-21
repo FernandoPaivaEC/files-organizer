@@ -1,0 +1,56 @@
+{
+    "editor.fontFamily": "Fira Code",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "file",
+    "editor.renderWhitespace": "boundary",
+    "editor.linkedEditing": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "files.autoSave": "onFocusChange",
+    "explorer.sortOrder": "type",
+    "eslint.alwaysShowStatus": true,
+    "eslint.codeActionsOnSave.mode": "all",
+    "javascript.validate.enable": false,
+    "typescript.validate.enable": true,
+    "editor.cursorStyle": "block",
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": true,
+    "eslint.format.enable": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "editor.rulers": [
+        {
+            "column": 80,
+            "color": "#0055aa"
+        }
+    ],
+    "workbench.colorTheme": "Dracula",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 16,
+    "workbench.activityBar.visible": false,
+    "workbench.colorCustomizations": {
+        "tab.activeBackground": "#22779955"
+    },
+    "zenMode.fullScreen": false,
+    "zenMode.centerLayout": true,
+    "zenMode.hideActivityBar": true,
+    "zenMode.hideLineNumbers": false,
+    "zenMode.hideStatusBar": true,
+    "zenMode.hideTabs": false,
+    "zenMode.restore": true,
+    "workbench.list.openMode": "singleClick",
+    "window.title": "${dirty}${activeEditorShort} | ${rootName}"
+}
